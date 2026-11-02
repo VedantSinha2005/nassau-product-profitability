@@ -1,0 +1,27 @@
+{
+  "audit": {
+    "source_rows": 10194,
+    "retained_rows": 10194,
+    "excluded_rows": 0,
+    "invalid_dates": 0,
+    "invalid_financial_values": 0,
+    "nonpositive_sales_or_negative_cost": 0,
+    "inconsistent_gross_profit": 0,
+    "missing_product_or_division": 0,
+    "missing_or_nonpositive_units_retained": 0,
+    "negative_profit_rows_retained": 0,
+    "unique_order_ids": 8549
+  },
+  "full_dataset_summary": {
+    "revenue": 141783.63,
+    "cost": 48340.83,
+    "profit": 93442.79999999999,
+    "units": 38654.0,
+    "gross_margin_pct": 65.90521063679917,
+    "profit_per_unit": 2.4174160500853725,
+    "products": 15,
+    "divisions": 3,
+    "rows": 10194
+  },
+  "caveat": "Illustrative assignment dataset, not Nassau Candy corporate financial disclosure."
+}
